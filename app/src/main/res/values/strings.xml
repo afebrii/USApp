@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">USApp</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Galley</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_share">Share</string>
+    <string name="US_share">Universitas Siliwangi Application</string>
+    <string name="share_message">Ayo segera bergabung menjadi bagian dari mahasiswa Universitas Siliwangi</string>
+    <string name="username">Andika Febriansyah</string>
+    <string name="email">andikafebriansyah755@gmail.com</string>
+    <string name="univ">Universitas Siliwangi</string>
+    <string name="jurusan">Informatika</string>
 </resources>
